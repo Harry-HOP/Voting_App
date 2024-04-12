@@ -1,0 +1,23 @@
+Planning
+
+1. user sign in/ sign up
+2. see the list of candiate
+3. a user can vote only one time
+4. there is a list which shows the list of candiates and their live vote count
+5. user data must contain one unique id proof
+6. there should be one admin who can only maintain the table of candiate and he can't able to vote at all
+7. User can change their password
+8. user can login only with adhar card number and password
+9. admin can't vote at all
+
+
+
+
+--------------------------------------------------------
+
+-----Steps----------
+
+1 Created server.js file
+2 npm init 
+3 express js
+4 Models (mongoose)
